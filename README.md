@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
+You can checkout this project on https://todo-list-4c658.web.app/
 
 ## Development server
 
